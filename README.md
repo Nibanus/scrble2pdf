@@ -1,6 +1,6 @@
 # Scrble2PDF
 
-A lightweight Command-Line Interface (CLI) tool written in Python that automatically compiles exported image files (from Scrble Ink or similar note-taking applications) into a single PDF document. It also includes an auto-cleanup feature to delete the original image files, helping you save storage space.
+A lightweight Command-Line Interface (CLI) tool written in Python that automatically compiles exported image files (from Scrble Ink or similar note-taking applications) into a single PDF document with a higher resolution than the base "export to pdf" option. It also includes an auto-cleanup feature to delete the original image files, helping you save storage space.
 
 ## Prerequisites
 
